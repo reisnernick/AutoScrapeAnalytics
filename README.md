@@ -1,2 +1,2 @@
 # AutoScrapeAnalytics
-Tool zur automatisierten Sammlung von Gebrauchtwagen-Daten mittels Web Scraping. Die gewonnenen Informationen werden anschließend durch eine Regressionsanalyse ausgewertet
+AutoScrapeAnalytics ist ein Tool zur automatisierten Sammlung von Gebrauchtwagen-Daten mittels Web Scraping. Die gewonnenen Informationen werden anschließend durch eine Regressionsanalyse ausgewertet, um interessante Muster und Zusammenhänge zu erkennen. Dieses Projekt bietet eine schnelle und effiziente Möglichkeit, Daten zu Gebrauchtwagenangeboten zu sammeln, zu analysieren und visuell darzustellen.
